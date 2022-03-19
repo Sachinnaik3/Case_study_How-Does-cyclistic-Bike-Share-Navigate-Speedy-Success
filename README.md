@@ -7,4 +7,3 @@
   This is capston project of google data analytics .here i am playing junior data analyst role
   my task in this project is to indentify the difference between member and casul riders of cyclistic
 
-![image](https://user-images.githubusercontent.com/98148389/159134719-a9a82b6c-7be2-45f9-86d7-eeeb64d67a97.png)
