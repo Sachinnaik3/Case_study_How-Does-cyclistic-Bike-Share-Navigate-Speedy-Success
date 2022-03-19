@@ -4,5 +4,5 @@
 
   cyclistic has two kind of customers casual riders who purchase bike for single ride or full day pass and another kind of customer is member rider who purchase annual   membership.
   
-  This is capston project of google data analytics .here i am playing junior data analyst
-  my task in this project is to indentify the difference between anlula and casul riders of cyclistic
+  This is capston project of google data analytics .here i am playing junior data analyst role
+  my task in this project is to indentify the difference between member and casul riders of cyclistic
